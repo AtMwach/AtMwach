@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Dart, AWS**
 
-💬 Ask me about **Python, Java, Html, Dart, Css and Javascript
+💬 Ask me about **Data Analytics and Web Development related topics**
 
 ⚡ Fun fact **I think Apex Legends is the best first person shooter Battle royale game, hands down**
 
@@ -32,7 +32,7 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,java,git,r" /><br>   
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,java,git" /><br>   
 </div>
 
 <br/>
