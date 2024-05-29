@@ -19,7 +19,7 @@
   </div>
  
 <div align="center"> 
-  <a href="https://linkedin.com/in/princeton-mwachala">
+  <a href="https://www.linkedin.com/in/princeton-mwachala-389a62275/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
