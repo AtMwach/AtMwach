@@ -14,7 +14,7 @@
 
 💬 Ask me about **Data Analytics and Web Development related topics**
 
-⚡ Fun fact **I think Apex Legends is the best first person shooter Battle royale game, hands down**
+⚡ Fun fact **Apex Legends is the best first person shooter Battle royale game, hands down**
 
   </div>
  
