@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently pursuing a degree in Jomo Kenyatta University Of Agriculture and Technology.
- 
  🌱 I’m currently learning **Dart, AWS**
 
 💬 Ask me about **Data Analytics and Web Development related topics**
