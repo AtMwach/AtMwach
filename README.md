@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Dart, AWS**
+ 🌱 I’m currently learning **Dart with Flutter and **AWS.
 
 💬 Ask me about **Data Analytics and Web Development related topics**
 
