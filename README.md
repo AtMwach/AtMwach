@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **Backend Development and AWS.
 
-💬 Ask me about **Data Analytics and Web Development related topics**
+💬 Data Enthusiast and Graphics Specialist**
 
 ⚡ Fun fact **Apex Legends is the best first person shooter Battle royale game, hands down**
 
