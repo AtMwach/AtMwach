@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🌱 I’m currently learning <b>Backend Development and AWS </b>.
+ 🌱 I’m currently learning <b><i>Backend Development and AWS</i></b>.
 
-💬 Cloud & Data Enthusiast and Graphics Specialist
+💬 Cloud & Data Enthusiast.
 
 ⚡ Fun fact **Apex Legends is the best first person shooter Battle royale game, hands down**
 
