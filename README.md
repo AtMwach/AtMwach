@@ -26,7 +26,7 @@
  <h2 align="center">⚒️ ages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,java,git" /><br>   
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,java,git,aws" /><br>   
 </div>
 
 <br/>
